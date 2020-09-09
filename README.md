@@ -22,3 +22,8 @@ travail en équipe projet de la NSI Terminale 2020/2021 au lycée pré de cordy
 
 #### 1.1 initiation à Python 3
  * à modifier
+ 
+ tata toto
+ 
+ 
+ 
