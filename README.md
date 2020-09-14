@@ -23,6 +23,7 @@ travail en équipe projet de la NSI Terminale 2020/2021 au lycée pré de cordy
 #### 1.1 comment utiliser pygame sous repl.it
  * [toutes les docs](docs.repl.it)
  * [doc pygame](https://docs.repl.it/tutorials/07-building-a-game-with-pygame)
+ * [exemples](https://www.pygame.org/docs/ref/examples.html)
  
  tata toto
  
