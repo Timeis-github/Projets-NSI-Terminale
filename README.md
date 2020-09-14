@@ -16,12 +16,13 @@ travail en équipe projet de la NSI Terminale 2020/2021 au lycée pré de cordy
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
+### Chapitre 1 : Projet PYGAME
 
 <img src="https://github.com/Math13Net/NSI-premiere/blob/master/rules.png" alt="the rules" width="240" height="180" border="1000" /></a>
 
-#### 1.1 initiation à Python 3
- * à modifier
+#### 1.1 comment utiliser pygame sous repl.it
+ * [toutes les docs](docs.repl.it)
+ * [doc pygame](https://docs.repl.it/tutorials/07-building-a-game-with-pygame)
  
  tata toto
  
