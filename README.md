@@ -9,8 +9,7 @@ travail en équipe projet de la NSI Terminale 2020/2021 au lycée pré de cordy
 
 ## ❤️ [Présentation de l'option NSI](https://github.com/Math13Net/NSI-premiere/blob/master/Pr%C3%A9sentation%20NSI.pdf)
 
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
+
 
 ## <a name="sommaire"></a> Progression Terminale NSI (ordre chronologique)
 ------------------------------------------------------------------------------------------------
